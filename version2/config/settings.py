@@ -1,0 +1,4 @@
+START_CHAR = "S"
+GOAL_CHAR = "E"
+PATH_CHAR = "."
+WALL_CHAR = "X"
